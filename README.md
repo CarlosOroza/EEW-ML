@@ -4,4 +4,4 @@ Python script to assess accuracy of LSTM neural network in predicting PGA at an 
 
 Relies on the make_seismograms function from:
 
-https://github.com/dmelgarm/gmpe_tools
+https://github.com/dmelgarm/gmpe_tools/blob/master/simulating_shakemaps_and_seismograms.ipynb
