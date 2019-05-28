@@ -4,4 +4,4 @@ Contains Python script to assess accuracy of LSTM neural network in predicting P
 
 Relies on the make_seismograms function from:
 
-https://github.com/dmelgarm/gmpe\_tools
+https://github.com/dmelgarm/gmpe_tools
